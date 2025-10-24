@@ -58,7 +58,6 @@ npm start
 ❤️ Thanks
 
 Thx Syai base nya sama library nya 🙏
-cmd.add jangan di ubah teks nya.
 
 ---
 
