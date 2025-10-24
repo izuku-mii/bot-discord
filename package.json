@@ -1,0 +1,31 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord sederhana dengan discord.js, axios, dan cheerio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "latest",
+    "@snazzah/davey": "latest",
+    "fs": "latest",
+    "fluent-ffmpeg": "latest",
+    "axios": "^1.7.0",
+    "chokidar": "latest",
+    "chalk": "latest",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^5.1.0",
+    "node-os-utils": "^1.3.7",
+    "node-fetch": "latest",
+    "util": "^0.12.5",
+    "discord.js": "latest",
+    "dotenv": "^16.4.5",
+    "mime-types": "^2.1.35"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
